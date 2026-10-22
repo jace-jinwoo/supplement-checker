@@ -42,4 +42,4 @@ GitHub 저장소 연결 후 Netlify: Build command `npm run build`, Publish dire
 
 ## 검증 상태
 - 실행하지 못함: `npm install`, `npm test`, `npm run build`, `npm run verify` (npm 레지스트리 접근 불가 환경). 코드 재독과 `intake.ts` 핵심 로직의 node 직접 실행 확인만 수행.
-- 데이터: 아래 갱신됨.
+- 데이터: 성분 6종(비타민 C·D, 칼슘, 마그네슘, 철, 아연) 모두 `미확인`, 기준값·조합·출처 문서 0건. NIH ODS 공식 페이지 WebFetch가 권한 미응답으로 차단되어 확인하지 못했고 기억 기반 수치는 넣지 않았습니다. 화면에는 "검증된 기준 데이터가 없어 경고를 표시할 수 없습니다"가 표시됩니다.
