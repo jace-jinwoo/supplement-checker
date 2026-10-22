@@ -1,0 +1,13 @@
+{
+  "schemaNote": "references/conversions/sources 는 공식 문서를 직접 열어 확인한 값만 기록합니다. 확인 전 성분은 status:'미확인', references:[] 입니다.",
+  "sources": [],
+  "combinations": [],
+  "ingredients": [
+    {"id":"vitamin-c","slug":"vitamin-c","name":"비타민 C","category":"비타민","unit":"mg","summary":"표시 단위만 안내하는 항목입니다. 기준값은 확인 전입니다.","conversions":[],"references":[],"status":"미확인","sourceUrl":null,"checkedAt":null},
+    {"id":"vitamin-d","slug":"vitamin-d","name":"비타민 D","category":"비타민","unit":"ug","summary":"라벨에 µg 또는 IU로 표시됩니다. IU 변환계수는 공식 확인 전이라 µg 입력만 합산합니다.","conversions":[],"references":[],"status":"미확인","sourceUrl":null,"checkedAt":null},
+    {"id":"calcium","slug":"calcium","name":"칼슘","category":"미네랄","unit":"mg","summary":"표시 단위만 안내하는 항목입니다. 기준값은 확인 전입니다.","conversions":[],"references":[],"status":"미확인","sourceUrl":null,"checkedAt":null},
+    {"id":"magnesium","slug":"magnesium","name":"마그네슘","category":"미네랄","unit":"mg","summary":"표시 단위만 안내하는 항목입니다. 기준값은 확인 전입니다.","conversions":[],"references":[],"status":"미확인","sourceUrl":null,"checkedAt":null},
+    {"id":"iron","slug":"iron","name":"철","category":"미네랄","unit":"mg","summary":"표시 단위만 안내하는 항목입니다. 기준값은 확인 전입니다.","conversions":[],"references":[],"status":"미확인","sourceUrl":null,"checkedAt":null},
+    {"id":"zinc","slug":"zinc","name":"아연","category":"미네랄","unit":"mg","summary":"표시 단위만 안내하는 항목입니다. 기준값은 확인 전입니다.","conversions":[],"references":[],"status":"미확인","sourceUrl":null,"checkedAt":null}
+  ]
+}
